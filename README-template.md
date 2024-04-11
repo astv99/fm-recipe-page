@@ -40,6 +40,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 Potential refactors could include:
 * BEM naming convention for classes
 * Better CSS class names
+* External stylesheet file
 
 ## Author
 
